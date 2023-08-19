@@ -8,8 +8,8 @@ I've been learning to code for over a year, after graduating university. I start
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [khairatadesina01@gmail.com](mailto:khairatadesina01@gmail.com)
-* 🚀  I'm currently working on [Alx-low\_level\_programming](http://github.com/khairatAA/alx-low_level_programming.git)
-* 🧠  I'm learning C programming language
+* 🚀  I'm currently working on [Alx-higher\_level\_programming](http://github.com/khairatAA/alx-higher_level_programming.git)
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on projects that proffer solutions to the world
 
 ### Skills
