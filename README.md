@@ -1,15 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khairat Adesina
 =======================================================================================================================================
 
-Software Engineer
+🌟 Software Engineer | Web Developer | Open-Source Enthusiast 🌟
 -----------------
 
-I've been learning to code for over a year, after graduating university. I started with HTML, CSS, JavaScript and React, I learnt on my own and built projects. I then became a dedicated Software Engineering student at ALX with strong foundation in C programming language. During the program, I have gained hands-on experience in developing dynamic web applications and working with various frameworks and libraries. I have a passion for creating scalable and user-friendly applications that provide seamless user experiences. I am always eager to tackle new challenges and explore innovative solutions to complex problems. Currently, I am actively involved in honing my skills through practical projects and coursework. I'm excited to connect with fellow developers, collaborate on exciting projects, and contribute to the open-source community. Feel free to reach out to me with any inquiries or opportunities. Let's work together to build exceptional software solutions!
+Welcome to my GitHub profile! I'm Khairat, and my journey from tech enthusiast to Software Engineer has been a thrilling ride. Post-graduation, I immersed myself in coding, crafting dynamic web experiences using HTML, CSS, JavaScript, and React. My passion led me to ALX, where I refined my skills in C programming and dynamic web app development.
+
+Proficient in Python, JavaScript, and various engineering tools, I thrive on crafting scalable, user-centric apps that seamlessly blend form and function.
+
+Currently, I'm refining my abilities through hands-on projects and coursework, ensuring I stay ahead of industry trends. Collaboration fuels me, whether it's partnering with developers, diving into exciting projects, or contributing to open-source initiatives. If you're interested in exploring opportunities or simply want to connect, let's chat. Together, we'll create exceptional software solutions!
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [khairatadesina01@gmail.com](mailto:khairatadesina01@gmail.com)
-* 🚀  I'm currently working on [Alx-higher\_level\_programming](http://github.com/khairatAA/alx-higher_level_programming.git)
-* 🧠  I'm learning Python
+* 🚀  I'm currently working on some [projects](http://github.com/khairatAA)
+* 🧠  I'm comfortable working with C programing language, Python & Java Script
 * 🤝  I'm open to collaborating on projects that proffer solutions to the world
 
 ### Skills
@@ -24,6 +28,7 @@ I've been learning to code for over a year, after graduating university. I start
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
 
@@ -38,7 +43,5 @@ I've been learning to code for over a year, after graduating university. I start
 <a href="http://www.github.com/khairatAA"><img src="https://github-readme-stats.vercel.app/api?username=khairatAA&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="khairatAA's GitHub stats" /></a>
 
 <a href="http://www.github.com/khairatAA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khairatAA&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/khairatAA"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=khairatAA&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/khairatAA" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairatAA&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
