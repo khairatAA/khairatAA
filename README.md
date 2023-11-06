@@ -1,4 +1,4 @@
-[![Banner](https://www.istockphoto.com/photo/digital-transformation-technology-strategy-iot-internet-of-things-transformation-of-gm1502441951-522709189?phrase=linkedin+background+image)](https://github.com/khairatAA/khairatAA)
+[![Banner](https://imgur.com/a/9714BaB)](https://github.com/khairatAA/khairatAA)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khairat Adesina
 =======================================================================================================================================
