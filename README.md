@@ -30,8 +30,8 @@ Currently, I'm refining my abilities through hands-on projects and coursework, e
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
 </p>
 
 
