@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khairat Adesina
 =======================================================================================================================================
 
-🌟 Software Engineer | Web Developer | Open-Source Enthusiast | Creator of #CodeQuest100Days 🌟
+🌟 Software Engineer | Web Developer | Open-Source Enthusiast 🌟
 -----------------
 
-Welcome to my GitHub profile! I'm Khairat, and my journey from tech enthusiast to Software Engineer has been a thrilling ride. Post-graduation, I immersed myself in coding, crafting dynamic web experiences using HTML, CSS, JavaScript, and React. My passion led me to ALX, where I refined my skills in C programming, python, system devops, web infrastructure design, bash scripting, networking, Data Base Management System using SQL.
+Welcome to my GitHub profile! I'm Khairat, and my journey from tech enthusiast to Software Engineer has been a thrilling ride. Post-graduation, I immersed myself in coding, crafting dynamic web experiences using HTML, CSS, JavaScript, and React. My passion led me to ALX, where I refined my skills in C programming, Python, System devops, Web infrastructure design, Bash scripting, Networking, Data Base Management System using SQL.
 
 I thrive on crafting scalable, user-centric apps that seamlessly blend form, function and solves real-world problems.
 
@@ -12,7 +12,7 @@ Currently, I'm refining my abilities through hands-on projects and coursework, e
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [khairatadesina01@gmail.com](mailto:khairatadesina01@gmail.com)
-* 🚀  I'm currently working on some [projects](http://github.com/khairatAA/CodeQuest100Days)
+* 🚀  I'm currently working on some [#CodeQuest100Days](http://github.com/khairatAA/CodeQuest100Days)
 * 🧠  I'm comfortable working with C programing language, Python, Java Script, React, SQL, HTML, CSS, Bash, Linux
 * 🤝  I'm open to collaborating on projects that proffer solutions to the world
 
@@ -29,6 +29,9 @@ Currently, I'm refining my abilities through hands-on projects and coursework, e
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sql" />
+  </a>
 </p>
 
 
