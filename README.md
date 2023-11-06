@@ -14,7 +14,7 @@ Currently, I'm refining my abilities through hands-on projects and coursework, e
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [khairatadesina01@gmail.com](mailto:khairatadesina01@gmail.com)
-* 🚀  I'm currently working on some [#CodeQuest100Days](http://github.com/khairatAA/CodeQuest100Days)
+* 🚀  I'm currently working on [#CodeQuest100Days](http://github.com/khairatAA/CodeQuest100Days)
 * 🧠  I'm comfortable working with C programing language, Python, Java Script, React, SQL, HTML, CSS, Bash, Linux
 * 🤝  I'm open to collaborating on projects that proffer solutions to the world
 
