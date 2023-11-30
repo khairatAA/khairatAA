@@ -1,4 +1,4 @@
-![Profile Views](https://gpvc.arturio.dev/khairatAA)
+![](https://komarev.com/ghpvc/?username=khairatAA&style=flat-square&color=blueviolet)
 
 [![Banner](https://i.imgur.com/3sfy3Ns.jpg)](https://github.com/khairatAA/khairatAA)
 
