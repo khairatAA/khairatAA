@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=khairatAA&style=flat-square&color=blueviolet)
 
-[![Banner](https://i.imgur.com/4bdAZe4)](https://github.com/khairatAA/khairatAA)
+[![Banner](https://i.imgur.com/4bdAZe4.png)](https://github.com/khairatAA/khairatAA)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khairat Adesina
 =======================================================================================================================================
