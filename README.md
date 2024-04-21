@@ -8,42 +8,72 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🌟 Full Stack Software Engineer | Frontend Engineer | Open-Source Enthusiast 🌟
 -----------------
 
-I'm a results-driven Full Stack Software Engineer with multiple years of experience developing robust and scalable applications. I specialize in React JS, React Native, RESTful APIs, and server-side management. I'm passionate about delivering innovative solutions that optimize performance and enhance user experience.
+I'm a results-driven **Full Stack Software Engineer** with a passion for crafting robust and scalable applications. I specialize in **React JS**, **React Native**, and **RESTful APIs**, with a focus on delivering exceptional user experiences.
 
-Currently, I'm refining my abilities through hands-on projects, ensuring I stay ahead of industry trends. Collaboration fuels me, whether it's partnering with developers, diving into exciting projects, or contributing to open-source initiatives. If you're interested in exploring opportunities or simply want to connect, let's chat. Together, we'll create exceptional software solutions!
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [khairatadesina01@gmail.com](mailto:khairatadesina01@gmail.com)
-* 🚀  I'm currently working on Mobile Development using React Native
-* 🧠  I'm comfortable working with both Frontend and Backend tools for the client and server side
-* 🤝  I'm open to collaborating on projects that proffer solutions to the world
+## About Me
 
-### Skills
+- 🌟 Based in Nigeria, passionate about technology and innovation.
+- ✉️ Reach out to me at [khairatadesina01@gmail.com](mailto:khairatadesina01@gmail.com).
+- 🚀 Currently honing my skills in Mobile Development using React Native.
+- 🧠 Comfortable working on both frontend and backend technologies.
 
+## Skills
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://skillicons.dev">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React JS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,bash,git,vim" />
 </a>
 </p>
 
 
-### Socials
+## Projects
 
-<p align="left"> <a href="https://www.github.com/khairatAA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_dedamola_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/khairat-adesina1234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_dedamola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### [Naytiv](https://naytif.vercel.app/)
 
-### Badges
+Developed Naytiv, a dynamic food delivery platform tailored for Nigerian users, using React JS, React Native, and Flask.
 
-<b>My GitHub Stats</b>
+### [ClearLink](https://clear-link-nu.vercel.app/)
+
+Crafted a static webpage for ClearLink, a video conferencing application, leveraging React JS for the frontend.
+
+### [Fast Travel](https://creative-horse-e0511c.netlify.app/)
+
+Built an intuitive platform using HTML, CSS, and JavaScript, catering to users' travel needs.
+
+### [Simple Shell](https://github.com/khairatAA/simple_shell)
+
+Developed a shell interface using C programming concepts like linked lists and file I/O.
+
+### [MongoDB Image API](https://github.com/khairatAA/mongo-image-api)
+
+Created a robust RESTful API using TypeScript, MongoDB, Node.js, and Express.
+
+
+## Socials
+
+<p align="left">
+  <a href="https://www.github.com/khairatAA" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/_dedamola_" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/khairat-adesina1234" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/_dedamola" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
+
+
+## Stats
 
 <a href="http://www.github.com/khairatAA"><img src="https://github-readme-stats.vercel.app/api?username=khairatAA&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="khairatAA's GitHub stats" /></a>
 
