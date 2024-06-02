@@ -45,13 +45,13 @@ I'm a results-driven **Full Stack Software Engineer** with a passion for craftin
 
 ## Projects
 
+### [Quizfinity](https://quizfinity-showcase.vercel.app/)
+
+Quizfinity is a mobile application currently deployed on Google Play Store designed to combine learning with fun through quizzes and trivia questions on various topics such as Technology, Science, Nature, Riddles, Literacy, and more. The app is suitable for users of all age groups, making it a versatile tool for education and entertainment. Quizfinity is developed using React Native, TypeScript and Firebase.
+
 ### [Naytiv](https://naytif.vercel.app/)
 
 Developed Naytiv, a dynamic food delivery platform tailored for Nigerian users, using React JS, React Native, and Flask.
-
-### [ClearLink](https://clear-link-nu.vercel.app/)
-
-Crafted a static webpage for ClearLink, a video conferencing application, leveraging React JS for the frontend.
 
 ### [Fast Travel](https://creative-horse-e0511c.netlify.app/)
 
